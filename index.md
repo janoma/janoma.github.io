@@ -12,7 +12,7 @@ You've stumbled upon yet another attempt at a web site.
 
 ## Sample Posts
 
-Here's an empty "posts list" (even though there are no posts yet). Clever, uh?
+Here's an empty "posts list". Clever, uh?
 
 <ul class="posts">
   {% for post in site.posts %}
