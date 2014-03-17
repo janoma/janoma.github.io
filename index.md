@@ -10,9 +10,7 @@ You've stumbled upon yet another attempt at a web site.
 
 ![Ian Malcolm, from Jurassic Park]({{ site.url }}/assets/malcolm.png)
 
-## Sample Posts
-
-Here's an empty "posts list". Clever, uh?
+## Blog Posts
 
 <ul class="posts">
   {% for post in site.posts %}
