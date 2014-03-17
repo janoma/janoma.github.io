@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A violin song
+tags: [violin, music]
+category: personal
 ---
 
 I'm currently learning violin. The song I have to study is a minuet by Luigi
