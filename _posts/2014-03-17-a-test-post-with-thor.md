@@ -48,3 +48,10 @@ end
 
 I modified it so it uses `vim` as the default editor, the tags are a
 one-liner list and there is a default category.
+
+**Update** (Mar 20, 2014): of course I didn't say how to use it, forgot it,
+and now had to came back to the same link and read it again. Here it is for a
+more immediate reference:
+
+    thor jekyll:new The title of the new post
+
