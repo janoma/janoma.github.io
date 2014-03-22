@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Welcome!
+title: Welcome to my future ex-web site!
 ---
 {% include JB/setup %}
 
-You've stumbled upon yet another attempt at a web site.
+You've stumbled upon yet another attempt at a personal collection of facts and
+rants and the like, with as much chance of surviving as previous versions,
+except perhaps that this one is being versioned in a trusted server, so who
+knows if it lasts a few years.
 
-*I'm always looking for an ex-web site.*
+*I'm always looking for a future ex-web site.*
 
 ![Ian Malcolm, from Jurassic Park]({{ site.url }}/assets/malcolm.png)
 
