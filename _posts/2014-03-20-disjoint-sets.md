@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disjoint sets"
-tags: [boost]
+tags: [boost,c++]
 category: programming
 ---
 
