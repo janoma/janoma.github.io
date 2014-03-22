@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to my future ex-web site!
+title: My future ex-web site!
 ---
 {% include JB/setup %}
 
