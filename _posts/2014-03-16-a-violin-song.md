@@ -12,5 +12,3 @@ method](http://en.wikipedia.org/wiki/Suzuki_method).
 I wish I could produce a sound half as good as [this
 guy](https://www.youtube.com/watch?v=z_EY6xwYRjU), or a recognizable
 vibrato. Well, time will tell.
-
-{% youtube z_EY6xwYRjU %}
